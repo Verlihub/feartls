@@ -1,0 +1,3 @@
+*.pas text working-tree-encoding=cp1252 eol=crlf
+*.dpr text working-tree-encoding=cp1252 eol=crlf
+*.lang text working-tree-encoding=cp1252 eol=crlf
